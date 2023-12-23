@@ -1,11 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import mlogo from './img/mlogo.jpg'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={mlogo} className="App-logo" alt="logo" />
+      
         <p>
           Team majeasstic 2023
         </p>
@@ -22,4 +24,5 @@ function App() {
     </div>
   );
 }
+
 export default App;
