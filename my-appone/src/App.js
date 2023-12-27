@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import mlogo from './img/mlogo.jpg'
-
+import list  from './components/teammemberlist.js'
 function App() {
   return (
     <div className="App">
@@ -11,14 +11,13 @@ function App() {
         <p>
           Team majeasstic 2023
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <a href='./components/teammemberlist.js'> view </a>
+        <ul>
+        <li>
+            hi
+        </li>
+          
+      </ul>
       </header>
 
     </div>
