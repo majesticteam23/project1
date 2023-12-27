@@ -9,16 +9,17 @@ function App() {
         <img src={mlogo} className="App-logo" alt="logo" />
       
         <p>
-          Team majeasstic 2023
+          Team majeastic 2023
         </p>
-        <a href='./components/teammemberlist.js'> view </a>
+      
         <ul>
-        <li>
+        <li>  praveen
             
         </li>
           
       </ul>
       </header>
+      
 
     </div>
   );
